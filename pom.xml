@@ -193,7 +193,7 @@
         <profile>
             <id>openshift</id>
             <build>
-                <finalName>monatisium</finalName>
+                <finalName>shopizer</finalName>
                 <plugins>
                     <plugin>
                         <artifactId>maven-war-plugin</artifactId>
